@@ -1,0 +1,22 @@
+{
+  "name": "mean_auth",
+  "version": "1.0.0",
+  "description": "Angular app with Token Authentication",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dashavanthk/Mean-Token-Auth.git"
+  },
+  "author": "Das",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dashavanthk/Mean-Token-Auth/issues"
+  },
+  "homepage": "https://github.com/dashavanthk/Mean-Token-Auth#readme",
+  "dependencies": {
+    "npm": "^6.10.2"
+  }
+}
