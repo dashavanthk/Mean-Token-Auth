@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/dashavanthk/Mean-Token-Auth#readme",
   "dependencies": {
+    "express": "^4.17.1",
     "npm": "^6.10.2"
   }
 }
